@@ -1,0 +1,24 @@
+{
+  "name": "reactandflux",
+  "version": "1.0.0",
+  "description": "React and Flux ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-rp/react-flux.git"
+  },
+  "keywords": [
+    "React",
+    "Typescript",
+    "Flux"
+  ],
+  "author": "Jason Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jason-rp/react-flux/issues"
+  },
+  "homepage": "https://github.com/jason-rp/react-flux#readme"
+}
